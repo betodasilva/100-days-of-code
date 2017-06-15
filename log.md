@@ -16,3 +16,11 @@
 
 **Link to work:** [Commit 81a8f39](https://github.com/betodasilva/blog/commit/81a8f393a396a681a897ef81e65884326c85ebf6), [Commit a9c9fb0](https://github.com/betodasilva/blog/commit/a9c9fb063eced381efb4fcc62268bcb40a3ba054),
 [Commit fac684d](https://github.com/betodasilva/blog/commit/fac684dca3e934c6768ebd176b3c53653601d761), [Commit 10867cb](https://github.com/betodasilva/blog/commit/10867cb3db1d59ce19ee48a30e781aed0eacb6f6)
+
+### Day 2: Jun 14, 2017
+
+**Today's Progress**: Finished 'Tagging' section in jumpstartlab blogger tutorial
+
+**Thoughts:** Learned new methods in Ruby. Better understand with other types of relationships in rails. I've started coding too late. Noticed that I need to visit the basic of Ruby. 
+
+**Link to work:** [Commit 5182988](https://github.com/betodasilva/blogger/commit/51829888b297f7a57351838daf2842c88dfb3ad0)
